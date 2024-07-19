@@ -15,7 +15,7 @@
 #### Database
 * How a database looks like
   * What are the building blocks
-* What type of basic műveleteket do you know
+* What type of basic commands do you know
 * What do you know about constraints, why are they important
 * What are database indices, what they help us achieve
 
@@ -30,6 +30,7 @@
     * Authorization
     * Error handling
 
-Ötlet:
-Összedobni egy repo-t példa backenddel, benne kis SQL
+Idea:
+Put together a simple repo with backend and some SQL.
+Have a PR opened with some issues. Let the candidate go through the PR and see what he/she "flags" and why.
 
